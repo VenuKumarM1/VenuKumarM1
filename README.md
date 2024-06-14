@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Full Stack Data Analysis, 
+- 🌱 I’m Full Stack Data Analyst, 
 - 📫 How to reach me: iamvenu13@gmail.com
